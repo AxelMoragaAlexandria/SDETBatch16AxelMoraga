@@ -1,4 +1,4 @@
-package class21;
+package Class21;
 /*
 Create a Class Student that will have 3 subclasses as SyntaxStudent, CollegeStudent, SchoolStudent.
 Define common behavior within parent class and override some of the methods in child classes

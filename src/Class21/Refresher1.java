@@ -1,4 +1,4 @@
-package class21;
+package Class21;
 
 public class Refresher1 {
     public static void main(String[] args) {

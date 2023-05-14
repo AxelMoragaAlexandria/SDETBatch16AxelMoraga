@@ -1,4 +1,4 @@
-package class21;
+package Class21;
 
 public class E1Poly {
 
