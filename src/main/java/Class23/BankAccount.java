@@ -14,7 +14,7 @@ public class BankAccount {
     }
 
     String getFirstName(){
-         return firstName;
+        return firstName;
     }
 
     public double getAccountBalance(String password){
